@@ -2,12 +2,12 @@ el proyecto analisa una base de datos ficticia de juegos, donde se especifican l
 
 link de dataset: https://www.kaggle.com/datasets/hosammhmdali/video-game-sales-2024
 
-# Proceso:
--limpieza de dataset en python:)
+## Proceso:
+-limpieza de dataset en python
 -crear tabla en sql
 -carga y analisis de dataset en sql
 
-# Analisis/insigths:
+## Analisis/insigths:
 Los años de registro van desde 1977 a 2020
 gta5 es el juego con más ventas en los registros historicos
 Rockstar Games es el developer con el mejor promedio de critica en los datos historicos
