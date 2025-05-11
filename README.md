@@ -3,9 +3,9 @@ el proyecto analisa una base de datos ficticia de juegos, donde se especifican l
 link de dataset: https://www.kaggle.com/datasets/hosammhmdali/video-game-sales-2024
 
 ## Proceso:
---limpieza de dataset en python
---crear tabla en sql
---carga y analisis de dataset en sql
+-1°limpieza de dataset en python
+-2°crear tabla en sql
+-3°carga y analisis de dataset en sql
 -
 ## Analisis/insigths:
 Los años de registro van desde 1977 a 2020
